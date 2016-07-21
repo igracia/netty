@@ -16,6 +16,7 @@ EXAMPLE_MAP=(
   'http-upload-server:io.netty.example.http.upload.HttpUploadServer'
   'websocket-client:io.netty.example.http.websocketx.client.WebSocketClient'
   'websocket-server:io.netty.example.http.websocketx.server.WebSocketServer'
+  'websocket-benchmark:io.netty.example.http.websocketx.benchmarkserver.WebSocketServer'
   'http2-client:io.netty.example.http2.helloworld.client.Http2Client'
   'http2-server:io.netty.example.http2.helloworld.server.Http2Server'
   'http2-tiles:io.netty.example.http2.tiles.Launcher'
